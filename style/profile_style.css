@@ -1,0 +1,83 @@
+body{
+    margin: 0px !important;
+    box-sizing: border-box;
+}
+
+/* .banner{
+    background-image: url("/images/flower_vase.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover ;
+    height :100vh;
+    #10E7DC
+} */
+
+.banner{
+    background-image:url("/images/flower_branch.jpg"),linear-gradient(rgb(16, 231, 220, 1),rgb(16, 231, 220, 0.5),rgb(16, 231, 220, 1));
+    background-blend-mode: overlay;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.navigation{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+#my-logo{
+    display: inline;
+    width: 100px;
+    height: 100px;
+}
+
+.nav-item{
+    display: inline;
+    margin: 10px;
+}
+
+li > .nav-link{
+    text-decoration: none;
+    color: #f7fed8;
+    font-size: 30px;
+}
+.nav-container a:hover{
+    border-bottom: 3px solid #fbd400;
+}
+
+
+.first-color { 
+	background: #499491; 
+}
+
+.second-color { 
+	background: #a3dec9; 
+}
+
+.third-color { 
+	background: #f7fed8; 
+}
+
+.fourth-color { 
+	background: #fbd400; 
+}
+
+.primary-text-color { 
+	color: #212121; 
+}
+
+.secondary-text-color { 
+	color: #757575; 
+}
+
+.divider-color { 
+	color: #BDBDBD; 
+}
+
+.icon-color { 
+	color: #000000; 
+}
