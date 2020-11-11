@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.about{
+    width: 100%;
+    background-image:linear-gradient(rgb(9, 136, 129,1),rgb(8, 120, 114,1));
+    height: 100vh;
+    margin: 0px;
+}
+.about-me-container{
+    width: 70%;
+    margin: 100px;
+    display: grid;
+    grid-template-columns: ;
+}
