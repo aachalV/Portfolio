@@ -1,5 +1,5 @@
 # Portfolio
-# Art-Market-Front-End
+
 ## The Repo is built using following concepts of html:
 #### Basic Html Tags
 #### Semantic UI elements
