@@ -85,6 +85,7 @@ li > .nav-link{
     /* flex-wrap: wrap; */
     justify-content: space-evenly;
     margin: auto;
+    padding: 0px;
     
 }
 #about-me-img{
@@ -92,6 +93,7 @@ li > .nav-link{
     height: 300px;
     padding: 0px;
     padding-left: 50px;
+    padding-top: 0px;
     margin: 0px;
 }
 #my-name{
@@ -100,6 +102,7 @@ li > .nav-link{
     margin-left: 20px;
 }
 .about-me-content {
+    padding-top: 30px;
     padding: 60px;
 }
 .about-me-content p{
