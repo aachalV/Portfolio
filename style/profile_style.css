@@ -11,7 +11,7 @@ body {
 }
 .banner {
   /* background-image:url("/images/route.jpg"); */
-  background-image: url("./images/route.jpg"),
+  background-image: url("../images/route.jpg"),
     linear-gradient(rgb(9, 136, 129, 1), rgb(8, 120, 114, 1));
   /* background-image:url("/images/route.jpg"),linear-gradient(rgb(16, 231, 220, 1),rgb(9, 136, 129,1),rgb(8, 120, 114,1)); */
   /* background-image:url("/images/flower_branch.jpg"),linear-gradient(rgb(1, 188, 195,1),rgb(16, 231, 220, 0.5),rgb(16, 231, 220, 1)); */
